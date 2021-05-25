@@ -1,4 +1,4 @@
-# Soil Watcher
+# Watcher
 
 This is a monorepo that contains the software to monitor the soil moisture in my backyard remotely.  I produced this code over the weekend, and did only the bare minimum required to read values from an ESP8266 sensor and post them to a server.  I don't particularly claim the code to be particularly good, but it *does* run.
 
